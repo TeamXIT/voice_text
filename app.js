@@ -135,9 +135,9 @@ const options = {
     definition: {
         openapi: '3.0.0',
         info: {
-            title: 'Audio Transcription API',
+            title: 'XIDNAAudio Transcription API',
             version: '1.0.0',
-            description: 'API for transcribing audio files to text using Vosk',
+            description: 'API for transcribing audio files to text using XIDNA AI',
         },
     },
     apis: ['./app.js'], // files containing annotations as above
